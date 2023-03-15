@@ -25,7 +25,7 @@ It provides the capability to scale the data during an operand read or write. No
 ## Simulation Result of 4 point FFT
 ![image](https://user-images.githubusercontent.com/99953169/225342374-6d32f3f6-441b-4a9d-8099-78d0091b43ac.png)
 
-FFT[4] can be easily implemented in FPGA as I did in Xilinx 14.7 ISE. We got the correct output for a given input X0=1, X1=2, X2=3j, X3=4. Hence 4 point FFT algorithm is implemented on Xilinx 14.7 ise.
+FFT can be easily implemented in FPGA as I did in Xilinx 14.7 ISE. We got the correct output for a given input X0=1, X1=2, X2=3j, X3=4. Hence 4 point FFT algorithm is implemented on Xilinx 14.7 ise.
 
 ## CONCLUSIONS
 Therefore,  a dedicated processor for DSP can be designed on FPGA which has static & dynamic data path to implement signal processing application.
